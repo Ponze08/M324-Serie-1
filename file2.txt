@@ -1,0 +1,2 @@
+Contenuto iniziale del file 2.
+Seconda riga per testare git diff.
